@@ -48,8 +48,9 @@
   <img src="https://img.icons8.com/windows/344/vuejs.png" width="48" height="48"/>
   <img src="https://img.icons8.com/ios-glyphs/344/java-coffee-cup-logo.png" width="48" height="48"/>
   <img src="https://img.icons8.com/ios-glyphs/344/php.png" width="48" height="48"/>
-  <img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/344/typescript.png" width="48" height="48"/>
+  <img src="https://camo.githubusercontent.com/74d9194217d2aba19f83533d9c4be2df897c083dead885b0d7a6c44391b4113a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f34353970782d49534f5f432532422532425f4c6f676f2e7376672e706e673f3230313730393238313930373130" width="48" height="48"/>
+  
 </p>
 
 
