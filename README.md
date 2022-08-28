@@ -39,17 +39,17 @@
 ## Technology and languages:
 <p align="center">
   <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/344/css3.png"/>
-  <img src="https://img.icons8.com/color/344/javascript.png"/>
-  <img src="https://img.icons8.com/ios-filled/344/jquery.png"/>
-  <img src="https://img.icons8.com/color/344/nodejs.png"/>
-  <img src="https://img.icons8.com/color/344/mongodb.png"/>
-  <img src="https://img.icons8.com/color/344/react-native.png"/>
-  <img src="https://img.icons8.com/windows/344/vuejs.png"/>
-  <img src="https://img.icons8.com/ios-glyphs/344/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/ios-glyphs/344/php.png"/>
-  <img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+  <img src="https://img.icons8.com/color/344/css3.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/344/javascript.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/ios-filled/344/jquery.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/344/nodejs.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/344/mongodb.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/344/react-native.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/windows/344/vuejs.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/ios-glyphs/344/java-coffee-cup-logo.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/ios-glyphs/344/php.png" width="48" height="48"/>
+  <img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png" width="48" height="48"/>
 </p>
 
 
