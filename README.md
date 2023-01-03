@@ -5,6 +5,7 @@
 - ✍ I'm a student of: Vietnam - **Korea** University of Information and Communication Technology (https://www.facebook.com/vku.udn.vn/) (VKU).
 
   🔭 I am currently working at JIT (**Japanese** IT - global talent) at VKU
+      (k21-2003)
 
 - 🌱 I’m currently learning **MERN Stack.**
   
