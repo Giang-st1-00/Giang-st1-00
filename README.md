@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Truong Giang </h1>
+<h1 align="center">Hi 👋, I'm Truong Giang （ジャン）</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
 
