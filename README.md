@@ -25,22 +25,22 @@
   </a>
 </p>
 
-## Technologies and languages:
-<p align="center">
-  <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/344/css3.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/344/javascript.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/ios-filled/344/jquery.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/344/nodejs.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/344/mongodb.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/344/react-native.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/windows/344/vuejs.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/ios-glyphs/344/java-coffee-cup-logo.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/ios-glyphs/344/php.png" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/344/typescript.png" width="48" height="48"/>
-  <img src="https://camo.githubusercontent.com/74d9194217d2aba19f83533d9c4be2df897c083dead885b0d7a6c44391b4113a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f34353970782d49534f5f432532422532425f4c6f676f2e7376672e706e673f3230313730393238313930373130" width="48" height="48"/>
-  
-</p>
+### 🛠 Languages and Tools
+<img src="" title="NextJS" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" title="TypeScript" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" title="ReactJS" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" title="Redux" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" title="Node.js" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" title="Express.js" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" title="MongoDB" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" title="TailwindCSS" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" title="Three.js" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" title="HTML5" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" title="CSS3" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" title="SASS" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" title="Bootstrap" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/> &nbsp;
 
 
 
