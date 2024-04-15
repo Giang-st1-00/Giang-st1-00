@@ -7,7 +7,7 @@
   🔭 I am currently working at JIT (**Japanese** IT - global talent) at VKU
       (k21-2003)
 
-- 🌱 I’m currently learning **nextJS-nestJS.**
+- 🌱 I’m currently learning **AI.**
   
   💬 Ask me about programing
 
